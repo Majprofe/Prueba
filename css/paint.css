@@ -1,4 +1,8 @@
-body {background-color: rgb(59, 55, 170);}
+body {
+    background-color: rgb(59, 55, 170);
+    font-weight: bold;
+    color:F00;
+}
 /* body {
     background-color: darkgrey;
 }
