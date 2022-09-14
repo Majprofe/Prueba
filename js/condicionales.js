@@ -1,4 +1,8 @@
-var sacha = {
+//Javascript Document
+function saludo(){
+  alert ("Hola alumnos");
+}
+/* var sacha = {
     nombre: 'Sacha',
     apellido: 'Lifszyc',
     edad: 28,
@@ -38,4 +42,4 @@ var sacha = {
     }  
   }
   
-  imprimirProfesiones(sacha)
+  imprimirProfesiones(sacha) */
